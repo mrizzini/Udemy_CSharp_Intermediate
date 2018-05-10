@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/bin/Debug/netcoreapp2.0/CodeAlongs.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/bin/Debug/netcoreapp2.0/CodeAlongs.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/bin/Debug/netcoreapp2.0/CodeAlongs.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/bin/Debug/netcoreapp2.0/CodeAlongs.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/bin/Debug/netcoreapp2.0/CodeAlongs.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/obj/Debug/netcoreapp2.0/CodeAlongs.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/obj/Debug/netcoreapp2.0/CodeAlongs.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/obj/Debug/netcoreapp2.0/CodeAlongs.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/obj/Debug/netcoreapp2.0/CodeAlongs.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/CodeAlongs/obj/Debug/netcoreapp2.0/CodeAlongs.pdb
