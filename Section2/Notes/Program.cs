@@ -7,6 +7,8 @@ namespace Notes
         static void Main(string[] args)
         {
 
+            // CLASSES
+
             // A class is a building block of an application
             // App consists of multiple classes, each responsible for a particular behavior in an app. Overall these classes together provide the behavior expected from the app
             //  Maintainable, clean, robust, reliable application
@@ -79,6 +81,88 @@ namespace Notes
             {
                 public static int PeopleCount = 0;
             }
+
+
+            // CONSTRUCTORS
+
+            // A constructor is a method that is called when an instance of a class is created
+            //  Why? To put an object in an early state, to initialize some of the fields
+
+            public class Customer
+            {
+                // this is the constructor. it must have the same name as the class. NO return type, not even void
+                //  we can do any type of initializtion here
+                // creates default values
+                public Customer()
+                {
+                }
+            }
+
+            public class Customer1
+            {
+                public string Name;
+                public Customer1(string name)
+                {
+                    // this references current object
+                    // what we get from the outside (the parameter), will be copied into the name field
+                    this.Name = name;
+                }
+            }
+
+            var customer = new Customer1("John");
+            // constructor will be called and the string passed in will be copied to the name field
+
+            // Constructor Overloading
+            // can use different signatures to overload
+            // in example above we could have:
+            // public Customer() {...}
+            // public Customer(string name) {...}
+            // public Customer(int id, string name) {...}
+
+            // This makes initialization easier. we may only know the name when creating the class, so we use the middle one
+
+
+            // OBJECT INITIALIZERS
+
+            // a syntax for quickly initializing an object without the need to call one of the constructors
+            // Why? to avoid creating multiple constructors
+
+            public class Person2
+            {
+                public Person2(int id) {}
+
+                public Person2(int id, string firstName) {}
+
+                public Person2(int id, string firstName, string lastName) {}
+            }
+            // this is messy. let's use an object initializer
+
+            var personObjectInit = new Person2
+                                    {
+                                        FirstName = "Mosh",
+                                        LastName = "Hamedani"
+                                    };
+            
+
+            // METHODS
+
+            // Signature of a method:
+            // Name
+            // Number and Type of parameters
+
+            // Overloading:
+            // Method w/ same name but different signatures
+
+            // Params Modifier
+
+            public class Calculator
+            {
+                public int Add(params int[] numbers) {}
+            }
+            
+            var result = calculator.Add(new int[] {1, 2, 3, 4});
+            //  OR MORE SIMPLY, USING PARAMS WE CAN DO BELOW
+            var result2 = Calculator.Add(1, 2, 3, 4);
 
         }
     }

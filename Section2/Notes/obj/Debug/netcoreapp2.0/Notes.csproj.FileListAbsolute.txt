@@ -1,0 +1,3 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Notes/obj/Debug/netcoreapp2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Notes/obj/Debug/netcoreapp2.0/Notes.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Notes/obj/Debug/netcoreapp2.0/Notes.AssemblyInfo.cs
