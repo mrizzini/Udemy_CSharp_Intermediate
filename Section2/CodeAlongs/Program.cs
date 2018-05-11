@@ -22,7 +22,35 @@ namespace CodeAlongs2
         // BUT INSTEAD we can declare this as static so we do not have to create a new person
     }
 
+    public class Customer2
+    {
+        public int Id;
+        public string Name;
+        public readonly List<Order2> Orders2 = new List<Order2>();
+        // this way it will alwyas be an empty list when initialized
+        // this is a different approach, it is up to us. be consistent
+        // readonly - will only be initialize a read only once when we declare it or in a constructor
 
+        public Customer2(int id)
+        {
+            this.Id = id;
+        }
+        public Customer2(int id, string name)
+            : this(id)
+        {
+            this.Name = name;
+        }
+
+        public void Promote()
+        {
+            // ...
+        }
+    }
+
+    public class Order2
+    {
+
+    }
 
     class ProgramCodeAlongs2
     {
@@ -58,6 +86,13 @@ namespace CodeAlongs2
             int number;
             var result = int.TryParse("abc", out number);
             // TryParse returns a boolean to show if it was successful or not. Won't throw an exception
+
+            // FIELDS
+
+            var customer = new Customer2(1):
+            customer.Orders.Add(new Order());
+
+            System.Console.WriteLine(customer.Orders.Count);
 
         }
 

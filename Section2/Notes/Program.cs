@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 
 namespace Notes
 {
@@ -163,6 +165,30 @@ namespace Notes
             var result = calculator.Add(new int[] {1, 2, 3, 4});
             //  OR MORE SIMPLY, USING PARAMS WE CAN DO BELOW
             var result2 = Calculator.Add(1, 2, 3, 4);
+
+
+            // FIELDS
+
+            // fields are like a variable that we declare at the class level
+            // and we use that to store data about the class
+            // some believe we should use constructors only when we need to initialize our fields based on the values passed from the outside. if the constructor has no parameters
+
+            // can do this without a constructor if we have no parameter
+
+            public class Customer3
+            {
+                List<Order> Orders = new List<Order>;
+            }
+
+            // Read only fields. this makes sure the field is only initialized once
+            // creates safety in our app
+
+            public class Customer4
+            {
+                readonly List<Order> Orders = new List<Order>;
+            }
+
+            // we will only have one list where we keep the orders
 
         }
     }
