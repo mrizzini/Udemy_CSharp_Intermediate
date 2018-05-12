@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/bin/Debug/netcoreapp2.0/Encapsulation.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Encapsulation/obj/Debug/netcoreapp2.0/Encapsulation.pdb

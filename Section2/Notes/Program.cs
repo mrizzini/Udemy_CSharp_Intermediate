@@ -190,6 +190,34 @@ namespace Notes
 
             // we will only have one list where we keep the orders
 
+            // ACCESS MODIFIERS
+
+            // Public
+            // Private
+            // Protected
+            // Internal
+            // Protected Internal
+            
+            // It is a way to control access to a class and/or its members. To create safety in our programs
+            // This is the beginning of OOP
+            // Encapsulation
+
+            // A restaurant has several positions
+            // They all work together
+            // The waitress takes an order, brings it to the kitchen, where the chef does something. They both have their own knowledge and perform certain functions
+
+            // !!
+            // We want our classes to be responsible for just one thing and has only one job. We want them to hide some info about how they do things. We don't want other classes to know the details about certain things. This is called encapsualtion
+            // We want to encapsulate some data in terms of fields as well as some behavior or functionality in terms of methods and classes
+            // And we want to hide the details from outside
+
+            // Encapsulation (in practice)
+            // Define fields as private
+            // Provide getter/setter methods as public
+            // Fields are the implentation detail which should be invisible from the outside. it's how a class stores something in memory. no classes should know about this
+            // Private fields should be _name and 
+            // Classes and Methods PascalCase
+
         }
     }
 }

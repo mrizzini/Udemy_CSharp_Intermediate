@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/obj/Debug/netcoreapp2.0/Composition.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/bin/Debug/netcoreapp2.0/Composition.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/bin/Debug/netcoreapp2.0/Composition.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/bin/Debug/netcoreapp2.0/Composition.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/obj/Debug/netcoreapp2.0/Composition.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Composition/obj/Debug/netcoreapp2.0/Composition.pdb

@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/bin/Debug/netcoreapp2.0/Properties.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/bin/Debug/netcoreapp2.0/Properties.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/bin/Debug/netcoreapp2.0/Properties.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/bin/Debug/netcoreapp2.0/Properties.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/bin/Debug/netcoreapp2.0/Properties.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/obj/Debug/netcoreapp2.0/Properties.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/obj/Debug/netcoreapp2.0/Properties.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/obj/Debug/netcoreapp2.0/Properties.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/obj/Debug/netcoreapp2.0/Properties.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Properties/obj/Debug/netcoreapp2.0/Properties.pdb

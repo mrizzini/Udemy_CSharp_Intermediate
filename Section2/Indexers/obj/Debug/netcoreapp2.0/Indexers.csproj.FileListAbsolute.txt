@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.pdb

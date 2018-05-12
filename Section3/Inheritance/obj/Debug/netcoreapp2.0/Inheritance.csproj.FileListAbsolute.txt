@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/bin/Debug/netcoreapp2.0/Inheritance.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section3/Inheritance/obj/Debug/netcoreapp2.0/Inheritance.pdb
