@@ -9,27 +9,33 @@ namespace One
         // public DateTime Start { get; set; }
         public DateTime Start()
         {
+            System.Console.WriteLine("Starting stopwatch");
             var Start = DateTime.Now;
             return Start;
         }
         // public DateTime End { get; set; }
         public DateTime End()
         {
-
-            var End = DateTime
+            System.Console.WriteLine("Ending stopwatch");
+            var End = DateTime.Now;
             return End;
         }
 
-
-        public TimeSpan Duration
+        public void Duration(DateTime start, DateTime end)
         {
-            get 
-            {
-                var timeSpan = End - Start;
-
-                return timeSpan;
-            }
+            System.Console.WriteLine(end - start);
         }
+
+
+        // public TimeSpan Duration
+        // {
+        //     get 
+        //     {
+        //         var timeSpan = End - Start;
+
+        //         return timeSpan;
+        //     }
+        // }
 
 
 

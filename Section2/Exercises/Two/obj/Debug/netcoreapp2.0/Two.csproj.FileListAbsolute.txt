@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/obj/Debug/netcoreapp2.0/Two.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/obj/Debug/netcoreapp2.0/Two.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/obj/Debug/netcoreapp2.0/Two.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/bin/Debug/netcoreapp2.0/Two.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/bin/Debug/netcoreapp2.0/Two.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/bin/Debug/netcoreapp2.0/Two.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/bin/Debug/netcoreapp2.0/Two.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/bin/Debug/netcoreapp2.0/Two.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/obj/Debug/netcoreapp2.0/Two.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section2/Exercises/Two/obj/Debug/netcoreapp2.0/Two.pdb
