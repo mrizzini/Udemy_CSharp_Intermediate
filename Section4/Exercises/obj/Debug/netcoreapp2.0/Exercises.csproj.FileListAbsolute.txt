@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/obj/Debug/netcoreapp2.0/Exercises.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/obj/Debug/netcoreapp2.0/Exercises.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/obj/Debug/netcoreapp2.0/Exercises.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/bin/Debug/netcoreapp2.0/Exercises.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/bin/Debug/netcoreapp2.0/Exercises.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/bin/Debug/netcoreapp2.0/Exercises.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/bin/Debug/netcoreapp2.0/Exercises.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/bin/Debug/netcoreapp2.0/Exercises.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/obj/Debug/netcoreapp2.0/Exercises.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/Exercises/obj/Debug/netcoreapp2.0/Exercises.pdb

@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/bin/Debug/netcoreapp2.0/ConstructorsAndInheritance.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/bin/Debug/netcoreapp2.0/ConstructorsAndInheritance.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/bin/Debug/netcoreapp2.0/ConstructorsAndInheritance.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/bin/Debug/netcoreapp2.0/ConstructorsAndInheritance.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/bin/Debug/netcoreapp2.0/ConstructorsAndInheritance.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/obj/Debug/netcoreapp2.0/ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/obj/Debug/netcoreapp2.0/ConstructorsAndInheritance.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/obj/Debug/netcoreapp2.0/ConstructorsAndInheritance.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/obj/Debug/netcoreapp2.0/ConstructorsAndInheritance.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/ConstructorsAndInheritance/obj/Debug/netcoreapp2.0/ConstructorsAndInheritance.pdb

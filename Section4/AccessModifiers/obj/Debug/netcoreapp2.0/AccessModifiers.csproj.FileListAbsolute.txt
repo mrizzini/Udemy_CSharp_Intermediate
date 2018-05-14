@@ -1,0 +1,3 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section4/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfo.cs

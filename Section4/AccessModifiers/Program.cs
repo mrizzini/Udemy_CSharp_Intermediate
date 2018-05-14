@@ -3,7 +3,15 @@
 namespace AccessModifiers
 {
 
- 
+     // make a class derives from Customer class
+    public class GoldCustomer : Customer
+    {
+       public void OfferVoucher()
+       {
+        //    this.CalculateRating(); 
+        // CAN'T USE THIS BECAUSE CALCULATERATING IS PRIVATE
+       }
+    }
     class ProgramAcessModifiers
     {
         static void Main(string[] args)
