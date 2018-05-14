@@ -5,7 +5,7 @@ namespace Exercises
 
     public class Stack
     {
-        Stack stack = new Stack();
+        // var stack = new Stack();
         
        public void Push(object obj)
        {
@@ -16,14 +16,16 @@ namespace Exercises
                throw new InvalidOperationException("Canot be null");
            }
 
-           stack.Push(obj);
+           
+
+        //    stack.Push(obj);
        }
 
        public object Pop()
        {
            System.Console.WriteLine("Pop:");
         //    return stack.Pop();
-        //    return 10;
+           return 10;
            
        }
 
@@ -43,9 +45,9 @@ namespace Exercises
             stack.Push(2);
             stack.Push(3);
 
-            System.Console.WriteLine(stack.Pop());
-            System.Console.WriteLine(stack.Pop());
-            System.Console.WriteLine(stack.Pop());
+            // System.Console.WriteLine(stack.Pop());
+            // System.Console.WriteLine(stack.Pop());
+            // System.Console.WriteLine(stack.Pop());
             
         }
     }
