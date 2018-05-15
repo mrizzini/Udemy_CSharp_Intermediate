@@ -10,7 +10,7 @@ namespace BoxingAndUnboxing
 
             // Value types:
             // Stored on the stack (when program is executed, a limited amount of space and the memory is allocated to each thread of the program and this space is used to store simple values like primitive types)
-            // Values on stack have a short lifetime. Get booted from stack as soon as they are out of the stack
+            // Values on stack have a short lifetime. Get booted from stack as soon as they are out of the scope
             // All primitive types: byte, int, float, char, bool
             // The struct type
 
@@ -40,7 +40,7 @@ namespace BoxingAndUnboxing
             // Unboxing
             object obj = 10;
             int number = (int)obj;
-            // When ww cast an object to an integer unboxing happens
+            // When we cast an object to an integer unboxing happens
             // The result is a new variable on the stack called number with value of 10
 
             // Boxing and Unboxing have a performance penalty b/c of the extra object creation 
