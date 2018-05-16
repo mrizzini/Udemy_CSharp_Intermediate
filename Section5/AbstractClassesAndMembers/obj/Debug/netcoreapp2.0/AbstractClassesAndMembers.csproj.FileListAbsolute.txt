@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/obj/Debug/netcoreapp2.0/AbstractClassesAndMembers.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/obj/Debug/netcoreapp2.0/AbstractClassesAndMembers.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/obj/Debug/netcoreapp2.0/AbstractClassesAndMembers.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/bin/Debug/netcoreapp2.0/AbstractClassesAndMembers.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/bin/Debug/netcoreapp2.0/AbstractClassesAndMembers.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/bin/Debug/netcoreapp2.0/AbstractClassesAndMembers.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/bin/Debug/netcoreapp2.0/AbstractClassesAndMembers.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/bin/Debug/netcoreapp2.0/AbstractClassesAndMembers.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/obj/Debug/netcoreapp2.0/AbstractClassesAndMembers.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section5/AbstractClassesAndMembers/obj/Debug/netcoreapp2.0/AbstractClassesAndMembers.pdb
