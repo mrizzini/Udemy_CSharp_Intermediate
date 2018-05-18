@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/obj/Debug/netcoreapp2.0/InterfaceExtensibility.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/obj/Debug/netcoreapp2.0/InterfaceExtensibility.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/obj/Debug/netcoreapp2.0/InterfaceExtensibility.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/bin/Debug/netcoreapp2.0/InterfaceExtensibility.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/bin/Debug/netcoreapp2.0/InterfaceExtensibility.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/bin/Debug/netcoreapp2.0/InterfaceExtensibility.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/bin/Debug/netcoreapp2.0/InterfaceExtensibility.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/bin/Debug/netcoreapp2.0/InterfaceExtensibility.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/obj/Debug/netcoreapp2.0/InterfaceExtensibility.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfaceExtensibility/obj/Debug/netcoreapp2.0/InterfaceExtensibility.pdb

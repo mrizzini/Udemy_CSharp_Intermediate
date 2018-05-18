@@ -1,0 +1,3 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfacePolymorphism/obj/Debug/netcoreapp2.0/InterfacePolymorphism.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfacePolymorphism/obj/Debug/netcoreapp2.0/InterfacePolymorphism.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Intermediate/Section6/InterfacePolymorphism/obj/Debug/netcoreapp2.0/InterfacePolymorphism.AssemblyInfo.cs
